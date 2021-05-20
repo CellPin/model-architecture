@@ -1,6 +1,7 @@
 # Model-Architecture
 
 #### base_model : 논문에 나온 모델, weight는 없음.
+#### base_model_pretraining : 논문에 나온 모델, weight
 #### vgg19 : vgg19 모델, weight는 없음.
 #### vgg19_imagenet : vgg19 모델, weight는 imagenet.
 #### resnet152 : resnet152V2 모델, weight는 없음.
